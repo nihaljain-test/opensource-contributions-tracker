@@ -1,15 +1,15 @@
 # OpenSource Contributions Report
 
-Report auto-generated on: 2026-04-27 02:04:29
+Report auto-generated on: 2026-04-28 02:10:54
 
 ## Overall Summary
 
 | Metric | Value |
 |--------|-------|
-| Total number of projects | 7 |
-| Total number of repositories | 7 |
-| Total number of contributions | 207 |
-| Number of commits | 196 |
+| Total number of projects | 8 |
+| Total number of repositories | 8 |
+| Total number of contributions | 220 |
+| Number of commits | 209 |
 | Number of pull requests (Open) | 11 |
 
 <div style="display: flex; justify-content: space-around;">
@@ -26,6 +26,7 @@ Report auto-generated on: 2026-04-27 02:04:29
 | apache/hbase-thirdparty | <img src='https://avatars.githubusercontent.com/u/47359?v=4' width='12' height='12'> [apache/hbase-thirdparty](https://github.com/apache/hbase-thirdparty) | <img src='https://avatars.githubusercontent.com/u/3429351?v=4' width='12' height='12'> [Nihal Jain](https://github.com/NihalJain) | 24 | 2 | 26 |
 | NihalJain/opensource-contributions-tracker | <img src='https://avatars.githubusercontent.com/u/3429351?v=4' width='12' height='12'> [NihalJain/opensource-contributions-tracker](https://github.com/NihalJain/opensource-contributions-tracker) | <img src='https://avatars.githubusercontent.com/u/3429351?v=4' width='12' height='12'> [Nihal Jain](https://github.com/NihalJain) | 20 | 0 | 20 |
 | NihalJain/jetty_log_dir_issue | <img src='https://avatars.githubusercontent.com/u/3429351?v=4' width='12' height='12'> [NihalJain/jetty_log_dir_issue](https://github.com/NihalJain/jetty_log_dir_issue) | <img src='https://avatars.githubusercontent.com/u/3429351?v=4' width='12' height='12'> [Nihal Jain](https://github.com/NihalJain) | 16 | 1 | 17 |
+| apache/hbase-operator-tools | <img src='https://avatars.githubusercontent.com/u/47359?v=4' width='12' height='12'> [apache/hbase-operator-tools](https://github.com/apache/hbase-operator-tools) | <img src='https://avatars.githubusercontent.com/u/3429351?v=4' width='12' height='12'> [Nihal Jain](https://github.com/NihalJain) | 13 | 0 | 13 |
 | apache/phoenix | <img src='https://avatars.githubusercontent.com/u/47359?v=4' width='12' height='12'> [apache/phoenix](https://github.com/apache/phoenix) | <img src='https://avatars.githubusercontent.com/u/3429351?v=4' width='12' height='12'> [Nihal Jain](https://github.com/NihalJain) | 12 | 0 | 12 |
 | apache/pinot | <img src='https://avatars.githubusercontent.com/u/47359?v=4' width='12' height='12'> [apache/pinot](https://github.com/apache/pinot) | <img src='https://avatars.githubusercontent.com/u/3429351?v=4' width='12' height='12'> [Nihal Jain](https://github.com/NihalJain) | 5 | 2 | 7 |
 
@@ -33,13 +34,14 @@ Report auto-generated on: 2026-04-27 02:04:29
 
 | User | Repositories | Commits | Pull Requests (Open) | Overall Contribution |
 |------|--------------|---------|----------------------|----------------------|
-| <img src='https://avatars.githubusercontent.com/u/3429351?v=4' width='12' height='12'> [Nihal Jain](https://github.com/NihalJain) | <img src='https://avatars.githubusercontent.com/u/3429351?v=4' width='12' height='12'> [NihalJain/NihalJain](https://github.com/NihalJain/NihalJain)<br><img src='https://avatars.githubusercontent.com/u/3429351?v=4' width='12' height='12'> [NihalJain/jetty_log_dir_issue](https://github.com/NihalJain/jetty_log_dir_issue)<br><img src='https://avatars.githubusercontent.com/u/3429351?v=4' width='12' height='12'> [NihalJain/opensource-contributions-tracker](https://github.com/NihalJain/opensource-contributions-tracker)<br><img src='https://avatars.githubusercontent.com/u/47359?v=4' width='12' height='12'> [apache/hbase](https://github.com/apache/hbase)<br><img src='https://avatars.githubusercontent.com/u/47359?v=4' width='12' height='12'> [apache/hbase-thirdparty](https://github.com/apache/hbase-thirdparty)<br><img src='https://avatars.githubusercontent.com/u/47359?v=4' width='12' height='12'> [apache/phoenix](https://github.com/apache/phoenix)<br><img src='https://avatars.githubusercontent.com/u/47359?v=4' width='12' height='12'> [apache/pinot](https://github.com/apache/pinot) | 196 | 11 | 207 |
+| <img src='https://avatars.githubusercontent.com/u/3429351?v=4' width='12' height='12'> [Nihal Jain](https://github.com/NihalJain) | <img src='https://avatars.githubusercontent.com/u/3429351?v=4' width='12' height='12'> [NihalJain/NihalJain](https://github.com/NihalJain/NihalJain)<br><img src='https://avatars.githubusercontent.com/u/3429351?v=4' width='12' height='12'> [NihalJain/jetty_log_dir_issue](https://github.com/NihalJain/jetty_log_dir_issue)<br><img src='https://avatars.githubusercontent.com/u/3429351?v=4' width='12' height='12'> [NihalJain/opensource-contributions-tracker](https://github.com/NihalJain/opensource-contributions-tracker)<br><img src='https://avatars.githubusercontent.com/u/47359?v=4' width='12' height='12'> [apache/hbase](https://github.com/apache/hbase)<br><img src='https://avatars.githubusercontent.com/u/47359?v=4' width='12' height='12'> [apache/hbase-operator-tools](https://github.com/apache/hbase-operator-tools)<br><img src='https://avatars.githubusercontent.com/u/47359?v=4' width='12' height='12'> [apache/hbase-thirdparty](https://github.com/apache/hbase-thirdparty)<br><img src='https://avatars.githubusercontent.com/u/47359?v=4' width='12' height='12'> [apache/phoenix](https://github.com/apache/phoenix)<br><img src='https://avatars.githubusercontent.com/u/47359?v=4' width='12' height='12'> [apache/pinot](https://github.com/apache/pinot) | 209 | 11 | 220 |
 
 ## Detailed Contributions
 
 | Project Key | Repository | User | Commits | Pull Requests (Open) | Overall Contribution |
 |--------------|------------|------|---------|----------------------|----------------------|
 | apache/hbase | <img src='https://avatars.githubusercontent.com/u/47359?v=4' width='12' height='12'> [apache/hbase](https://github.com/apache/hbase) | <img src='https://avatars.githubusercontent.com/u/3429351?v=4' width='12' height='12'> [Nihal Jain](https://github.com/NihalJain) | 84 | 6 | 90 |
+| apache/hbase-operator-tools | <img src='https://avatars.githubusercontent.com/u/47359?v=4' width='12' height='12'> [apache/hbase-operator-tools](https://github.com/apache/hbase-operator-tools) | <img src='https://avatars.githubusercontent.com/u/3429351?v=4' width='12' height='12'> [Nihal Jain](https://github.com/NihalJain) | 13 | 0 | 13 |
 | apache/hbase-thirdparty | <img src='https://avatars.githubusercontent.com/u/47359?v=4' width='12' height='12'> [apache/hbase-thirdparty](https://github.com/apache/hbase-thirdparty) | <img src='https://avatars.githubusercontent.com/u/3429351?v=4' width='12' height='12'> [Nihal Jain](https://github.com/NihalJain) | 24 | 2 | 26 |
 | apache/phoenix | <img src='https://avatars.githubusercontent.com/u/47359?v=4' width='12' height='12'> [apache/phoenix](https://github.com/apache/phoenix) | <img src='https://avatars.githubusercontent.com/u/3429351?v=4' width='12' height='12'> [Nihal Jain](https://github.com/NihalJain) | 12 | 0 | 12 |
 | apache/pinot | <img src='https://avatars.githubusercontent.com/u/47359?v=4' width='12' height='12'> [apache/pinot](https://github.com/apache/pinot) | <img src='https://avatars.githubusercontent.com/u/3429351?v=4' width='12' height='12'> [Nihal Jain](https://github.com/NihalJain) | 5 | 2 | 7 |
